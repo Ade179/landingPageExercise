@@ -1,0 +1,117 @@
+.header{
+   display: flex;
+   justify-content: space-between;
+   padding: 3%;
+   background-color: rgb(42, 42, 119);
+   color: white;
+   border-radius: 20px;
+   margin-bottom: 20px;
+ 
+ 
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+html,body{
+    padding: 0;
+    margin: 0%;
+}
+.container{
+    background-color: #1f2937;
+    border:10px solid #1f2937;
+}
+.info{
+    color: white;
+
+}
+.contained{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 12%;
+    padding-left: 12%;
+}
+#Awe{
+    font-size: xx-large;
+}
+.photo{
+    height: auto;
+    max-width: 200px;
+    border: 2px solid aqua;
+
+}
+.btn{
+    border-radius: 20px;
+    color: blueviolet;
+    background-color: beige;
+    padding: 0.5%;
+}
+
+.btn:hover{
+    background-color: green;
+}
+.Gang{
+    text-align: center;
+    font-size: xx-large;
+}
+
+#img{
+    height: auto;
+    width: 100px;
+    border: 2px solid aqua;
+   
+  
+}
+.img1{
+    width: 28%;
+    font-size: 13px;
+
+}
+
+.wrapContainer{
+    display: flex ;
+    font-size: 0;
+    justify-content: center;
+
+}
+.sec3{
+    text-align: center;
+    background-color: rgb(219, 207, 207);
+}
+.speech{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+    padding: 30px;
+    max-width: 800px;
+}
+.sec4{
+    display: flex;
+   
+    text-align: center;
+   
+   
+  
+}
+#share{
+    border-radius:12px;
+    background-color: blue;
+    justify-content: space-between; 
+}
+.all{
+ 
+ display: flex;
+ justify-content: space-around;
+ background-color: #3882f6;
+ border: 2px solid #3882f6;
+ border-width: 15px;
+ border-radius: 22px;
+   
+}
+footer{
+    text-align: center;
+    background-color: rgb(42, 42, 119);
+    color: white;
+    padding: 2%;
+
+}
